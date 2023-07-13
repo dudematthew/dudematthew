@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dudematthew
 - 👀 I’m interested in creating a front-end web applications, mainly for personal growth and use
-  🎲 My passion are tabletop RPGs - a lot of my projects aims to improve QOL of Game Masters
+- 🎲 My passion are tabletop RPGs - a lot of my projects aims to improve QOL of Game Masters
 - 🌱 I’m currently learning [Nest.js](https://nestjs.com/) as I'm trying to master full-stack developing
 - 💞️ Everyone who thinks that my projects are worth collaborating is welcome to join me on my journey!
 - 📫 You can email me on mmoczydlowski4@gmail.com
