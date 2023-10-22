@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dudematthew
 - 👀 I’m interested in creating a full stack JS web applications, mainly for personal growth and use
 - 🎲 One of my passions are tabletop RPGs - a lot of my projects aims to improve QOL of Game Masters
-- 🌱 I’m currently learning [Nest.js](https://nestjs.com/) and making the best use of [Vue.js](https://vuejs.org/)
+- 🌱 I’m currently learning [Nest.js](https://nestjs.com/) and making my best use of [Vue.js](https://vuejs.org/)
 - 💞️ Everyone who thinks that my projects are worth collaborating is welcome to join me on my journey!
 - 📫 You can email me on mmoczydlowski4@gmail.com
 
